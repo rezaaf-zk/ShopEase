@@ -102,6 +102,6 @@ Potential future improvements include:
 
 ## Project Status
 
-**In Development **
+** In Development **
 
 ShopEase is an ongoing project and will continue to be improved with additional features and system enhancements.
