@@ -45,7 +45,7 @@ The system provides two main roles: **Admin** and **Cashier**. Cashiers can proc
 * Complete customer purchases.
 * Record transaction data.
 
-## 📈 Sales Analytics
+## Sales Analytics
 
 ShopEase provides an interactive dashboard that visualizes sales data through charts and statistics. This allows administrators to quickly understand sales performance, monitor revenue trends, and identify changes in product demand.
 
@@ -69,7 +69,7 @@ ShopEase provides an interactive dashboard that visualizes sales data through ch
                   Charts & Analytics
 ```
 
-## 🚀 Technologies
+## Technologies
 
 ShopEase is built using modern web technologies, including:
 
@@ -102,6 +102,6 @@ Potential future improvements include:
 
 ## Project Status
 
-**In Development 🚧**
+**In Development **
 
 ShopEase is an ongoing project and will continue to be improved with additional features and system enhancements.
